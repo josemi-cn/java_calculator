@@ -1,6 +1,6 @@
 Well, my first project!
 
-Just a small project I was doing while studying programming for practice, nothing too serious, that one of the reasons i started this.
+Just a small thing I was doing while studying programming for practice, nothing too serious, that one of the reasons i started this.
 
 My idea was to replicate the calculators that you have on Windows. Why? Because the ones that i did while studying suck, and i wanted to do something more interesting. And it was, you have no idea how hard can be to do one of these.
 
